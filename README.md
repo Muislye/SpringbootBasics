@@ -4,7 +4,7 @@ The purpose of this repository is to expose what was learned in the Spring Boot 
 
 ## Description
 
-In this course we learned what Spring boot is, what it is for, how to create a Spring project, how to create dependencies with Mavenn, create Bean, configure to use a DB, etc.
+In this course we learned what Spring boot is, what it is for, how to create a Spring project, how to create dependencies with Maven, create Bean, configure to use a DB, etc.
 
 ## Technologies
 
